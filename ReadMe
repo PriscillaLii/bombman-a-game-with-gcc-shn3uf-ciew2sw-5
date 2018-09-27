@@ -1,0 +1,5 @@
+Team, Course Project 2014
+
+Developed an offline game using c++ with gcc. Created different characters that have different abilities.
+Finished the function that charactor can move and set bombs to devastate the other charactor chosen by the other gamer.
+Created different properties that can enhance the destructiveness of bombs, accelerate the speed of charactor, etc.
